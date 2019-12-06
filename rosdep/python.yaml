@@ -1132,6 +1132,7 @@ python-crypto:
     artful_python3: [python3-crypto]
     bionic: [python-crypto]
     bionic_python3: [python3-crypto]
+    disco: [python-crypto]
     lucid: [python-crypto]
     maverick: [python-crypto]
     natty: [python-crypto]
@@ -2341,6 +2342,7 @@ python-mock:
   ubuntu:
     artful: [python-mock]
     bionic: [python-mock]
+    disco: [python-mock]
     lucid: [python-mock]
     maverick: [python-mock]
     natty: [python-mock]
@@ -2579,6 +2581,7 @@ python-numpy:
   ubuntu:
     artful: [python-numpy]
     bionic: [python-numpy]
+    disco: [python-numpy]
     lucid: [python-numpy]
     maverick: [python-numpy]
     natty: [python-numpy]
@@ -3018,6 +3021,7 @@ python-psutil:
   ubuntu:
     artful: [python-psutil]
     bionic: [python-psutil]
+    disco: [python-psutil]
     lucid: [python-psutil]
     maverick: [python-psutil]
     natty: [python-psutil]
@@ -3542,6 +3546,7 @@ python-qt5-bindings:
   ubuntu:
     artful: [pyqt5-dev, python-pyqt5, python-pyqt5.qtsvg, python-sip-dev]
     bionic: [pyqt5-dev, python-pyqt5, python-pyqt5.qtsvg, python-sip-dev]
+    disco: [pyqt5-dev, python-pyqt5, python-pyqt5.qtsvg, python-sip-dev]
     wily: [libpyside2-dev, libshiboken2-dev, pyqt5-dev, python-pyqt5, python-pyqt5.qtsvg, python-pyside2, python-sip-dev, shiboken2]
     xenial: [libpyside2-dev, libshiboken2-dev, pyqt5-dev, python-pyqt5, python-pyqt5.qtsvg, python-pyside2, python-sip-dev, shiboken2]
     yakkety: [libpyside2-dev, libshiboken2-dev, pyqt5-dev, python-pyqt5, python-pyqt5.qtsvg, python-pyside2, python-sip-dev, shiboken2]
@@ -3560,6 +3565,7 @@ python-qt5-bindings-gl:
   ubuntu:
     artful: [python-pyqt5.qtopengl]
     bionic: [python-pyqt5.qtopengl]
+    disco: [python-pyqt5.qtopengl]
     wily: [python-pyqt5.qtopengl]
     xenial: [python-pyqt5.qtopengl]
     yakkety: [python-pyqt5.qtopengl]
@@ -3583,6 +3589,7 @@ python-qt5-bindings-webkit:
   ubuntu:
     artful: [python-pyqt5.qtwebkit]
     bionic: [python-pyqt5.qtwebkit]
+    disco: [python-pyqt5.qtwebkit]
     wily: [python-pyqt5.qtwebkit]
     xenial: [python-pyqt5.qtwebkit]
     yakkety: [python-pyqt5.qtwebkit]
@@ -4074,6 +4081,7 @@ python-sip:
     artful_python3: [python3-sip-dev]
     bionic: [python-sip-dev]
     bionic_python3: [python3-sip-dev]
+    disco: [python-sip-dev]
     lucid: [python-sip-dev]
     maverick: [python-sip-dev]
     natty: [python-sip-dev]
@@ -4973,6 +4981,7 @@ python-yaml:
   ubuntu:
     artful: [python-yaml]
     bionic: [python-yaml]
+    disco: [python-yaml]
     lucid: [python-yaml]
     maverick: [python-yaml]
     natty: [python-yaml]

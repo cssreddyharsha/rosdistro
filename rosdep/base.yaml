@@ -2110,6 +2110,7 @@ libgpgme-dev:
   ubuntu:
     artful: [libgpgme-dev]
     bionic: [libgpgme-dev]
+    disco: [libgpgme-dev]
     lucid: [libgpgme11-dev]
     maverick: [libgpgme11-dev]
     oneiric: [libgpgme11-dev]
@@ -2300,6 +2301,7 @@ libjpeg:
   ubuntu:
     artful: [libjpeg-dev]
     bionic: [libjpeg-dev]
+    disco: [libjpeg-dev]
     lucid: [libjpeg62-dev]
     maverick: [libjpeg62-dev]
     natty: [libjpeg62-dev]
@@ -2559,6 +2561,7 @@ libogre-dev:
   ubuntu:
     artful: [libogre-1.9-dev]
     bionic: [libogre-1.9-dev]
+    disco: [libogre-1.9-dev]
     lucid: [libogre-dev]
     maverick: [libogre-dev]
     natty: [libogre-dev]
@@ -4045,6 +4048,7 @@ lz4:
   ubuntu:
     artful: [liblz4-dev]
     bionic: [liblz4-dev]
+    disco: [liblz4-dev]
     saucy: [liblz4-dev]
     trusty: [liblz4-dev]
     utopic: [liblz4-dev]
